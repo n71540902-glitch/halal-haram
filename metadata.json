@@ -1,0 +1,7 @@
+{
+  "name": "Halal Haram Explorer",
+  "description": "An Islamic-themed product guide that identifies whether food products are Halal, Haram, or Mushbooh using AI analysis and religious references.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
